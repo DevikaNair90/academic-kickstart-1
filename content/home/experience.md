@@ -18,27 +18,70 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Research Scientist"
+  company = "University of Virginia"
+  company_url = "https://biocomplexity.virginia.edu/social-decision-analytics"
+  location = "Virginia"
+  date_start = "2018-11-15"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """"""
+  # Responsibilities include:
+  # * Analysing
+  # * Modelling
+  # * Deploying
+
+  [[experience]]
+    title = "Graduate Fellow"
+    company = "Data Science for the Public Good"
+    company_url = "https://www.bi.vt.edu/sdal/projects/data-science-for-the-public-good-program"
+    location = "Virginia"
+    date_start = "2018-05-15"
+    date_end = "2018-08-15"
+    description = """"""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Management Intern"
+  company = "Arlington County Government"
+  company_url = "https://www.arlingtonva.us/"
+  location = "Virginia"
+  date_start = "2017-04-15"
+  date_end = "2018-05-15"
+  description = """ """
+
+ [[experience]]
+  title = "Data Science Student Consultant"
+  company = "Arlington County Government"
+  company_url = "https://www.arlingtonva.us/"
+  location = "Virginia"
+  date_start = "2017-08-30"
+  date_end = "2018-06-15"
+  description = """"""
+
+ [[experience]]
+  title = "Senior Business Operations Analyst"
+  company = "The Advisory Board Company"
+  company_url = "https://www.advisory.com/"
+  location = "Washington, DC"
+  date_start = "2015-02-01"
+  date_end = "2017-04-30"
+  description = """"""
+
+ [[experience]]
+  title = "Coordinator"
+  company = "The Advisory Board Company"
+  company_url = "https://www.advisory.com/"
+  location = "Washington, DC"
+  date_start = "2014-03-31"
+  date_end = "2015-01-31"
+  description = """"""
+
+  [[experience]]
+   title = "Programs Intern"
+   company = "Genetic Alliance"
+   company_url = "https://www.arlingtonva.us/"
+   location = "Washington DC"
+   date_start = "2014-03-31"
+   date_end = "2015-01-31"
+   description = """"""
 
 +++
