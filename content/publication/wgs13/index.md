@@ -3,7 +3,7 @@
 
 title: "Whole-Genome Sequencing and Infectious Disease: A Novel Application of Sequencing Technology."
 authors: [Nair, D.]
-date: 2019-11-23T18:51:32-05:00
+date: 2013-11-23T18:51:32-05:00
 doi: "10.1089/gtmb.2013.1549"
 
 # Schedule page publish date (NOT publication's date).

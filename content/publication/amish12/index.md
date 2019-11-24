@@ -3,7 +3,7 @@
 
 title: "Genetic Mapping and Exome Sequencing Identify Variants Associated with Five Novel Diseases."
 authors: [Puffenberger, EG; Jinks, RN; Sougnez, C; Cibulskis K; Willert RA...Nair, D....et al.]
-date: 2019-11-23T18:51:32-05:00
+date: 2012-11-23T18:51:32-05:00
 doi: "10.1371/journal.pone.0028936
 "
 

@@ -3,11 +3,11 @@
 
 title: "The emergence and behavioral stability of social status in green anole lizard (Anolis carolinensis) dyads."
 authors: [Farrell, W. J.; Nair, D. T.; Miller, B. M.; & Zigler, A. M.  ]
-date: 2019-11-23T18:51:32-05:00
+date: 2016-11-23T18:51:32-05:00
 doi: "10.20982/tqmp.15.2.p148"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-11-23T18:51:32-05:00
+publishDate: 2016-11-23T18:51:32-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

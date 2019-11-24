@@ -1,3 +1,42 @@
+**Notes for myself for the next time I try to update this thing**
+
+- you have to refresh the themes submodule? from terminal root directory (higher level directory i.e. academic-kickstart-1)
+    - git
+    - submodule
+    - update
+- to create a new page, go to terminal, be in project folder, then type:
+    - hugo
+    - new
+    - `--kind`
+    - [valid kinds are based on themes/academic/archetypes]
+    - path_to_post_location
+- home folder is a mix
+    - some pages are the skeleton/layout/ui for content with separate location for content
+       - about.md --> `content/authors/admin/_index.md`
+    - some pages are the skeleton/layout/ui for the content with separate folder with the content
+       - posts
+       - publications
+       - talks
+    - some pages are both the skeleton and the content
+       - experience
+    - some pages look they like dynamically pull from redundant locations
+       - featured - publications
+- pages in home I haven't figured out:
+    - hero.md - disabled, is this supposed to be for a role model?
+    - index.md - no filter_default
+    - people.md - for people in your org, doesn't apply here
+    - slider.md - ?
+    - tags.md - I dislike this one
+- profile image is not in images folder, it's now avatar.JPG in `content/authors/admin/` folder
+- config is its own folder now
+
+
+
+
+
+
+
+
 # [Academic Kickstart](https://sourcethemes.com/academic/)
 
 **Academic** makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs. [Check out the latest demo](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the showcase](https://sourcethemes.com/academic/#expo).
